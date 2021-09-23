@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Json2Parquet": {
+      "commandName": "Project",
+      "commandLineArgs": "-src C:\\Users\\gaklions\\Downloads\\example.json -o C:\\gk-parquet\\example.parquet"
+    }
+  }
+}
